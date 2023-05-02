@@ -2,7 +2,7 @@
 we are going to know how to train a self driving car using Convolution neural networks CNN. We will be using the open source Self driving car simulator provided by Udacity that is used in their Self driving car Nano degree program. Using this simulator we will first drive the car and collect data. Then we will train a CNN model to learn this behavior and then test it back on the simulator. The model we will use was proposed by NVIDIA. They used this model to train a real car data and got promising results when they drove it autonomously.
 
 
-# udacity-self-driving-car
+# Udacity-self-driving-car
 This is a machine learning project, in which a car is driven autonomously in a simulator using a nine-layered convolutional neural network. The simulator used in the video is Udacity's open source simulator. Find the project video on [YouTube](https://www.youtube.com/watch?v=I39Zn5ip_nQ)
 
 # The Concept
