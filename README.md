@@ -3,7 +3,7 @@ we are going to know how to train a self driving car using Convolution neural ne
 
 
 # Udacity-self-driving-car
-This is a machine learning project, in which a car is driven autonomously in a simulator using a nine-layered convolutional neural network. The simulator used in the video is Udacity's open source simulator. Find the project video on [YouTube](https://www.youtube.com/watch?v=I39Zn5ip_nQ)
+This is a machine learning project, in which a car is driven autonomously in a simulator using a convolutional neural network. The simulator used in the video is Udacity's open source simulator. Find the project video on [YouTube](https://www.youtube.com/watch?v=I39Zn5ip_nQ)
 
 # The Concept
 So how do humans learn to drive. Do we calculate how much to turn based on the road lane? Does it have to be specific color road lanes? what if there are no road lanes? Well we will still be able to drive. So the question is how did we learn? For years and years we watch and observe i.e collecting data of parents driving going to road trips going to school learning the basics of driving. And once we finally get behind the we have a basic understanding of roads, lanes different signs etc. So at this point we already have a model in our head that knows the basics but once we start driving ourselves we train the model even further this time will steering information along with acceleration and braking. So withing a few days of training we learn how to drive. So over time we keep getting better as we keep getting more data. So the key here is that we collect data and based on this we create a model that generalizes how to drive.
