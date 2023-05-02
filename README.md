@@ -20,7 +20,9 @@ Below we can see the System Structure of NVIDIA’s method, where they collected
 ### Installing
 * clone this repository.
 * [Tensorflow-gpu](https://www.tensorflow.org/install/) - Install tensorflow gpu from this link (you will need a nvidia graphics card)
-* install opencv
+* install [OpenCV](https://opencv.org/)
+* install [Numpy](https://numpy.org/)
+* install [Matplotlib](https://matplotlib.org/)
 * useing the following command to install other dependencies.
 ```
 pip install -r requirements.txt
