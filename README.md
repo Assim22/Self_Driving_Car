@@ -54,7 +54,7 @@ python TestingSimulation.py
 * **Assim Abdelnour** - [github](https://github.com/Assim22)
 
 * **Atef Selim** - [github](https://github.com/Atefselim)
-* **Salah Ahmed**
+* **Salah Ahmed** - [github](https://github.com/salahahmeed)
 
 ## License
 
