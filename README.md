@@ -40,14 +40,14 @@ create IMG, data folder
 save my images in IMG folder and save the driving_log.csv in data folder then run the following command.
 
 ```
-python model_train.py
+python TrainingSimulation.py
 ```
 
 ## Testing
 
 Start the simulator in autonomous mode. Then run the following command.
 ```
-python drive.py
+python TestingSimulation.py
 ```
 ## Authors
 
