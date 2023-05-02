@@ -15,7 +15,7 @@ Below we can see the System Structure of NVIDIA’s method, where they collected
 ## libraries
 * [Udacity open source simulator](https://github.com/udacity/self-driving-car-sim)
 * [Tensorflow-gpu](https://www.tensorflow.org/install/) - Deep learning library used.
-* [TFlearn](https://tflearn.org/) - Higher level wrapper on tensorflow.
+* [Socketio](https://socket.io/) - Communication channel between the server and the client.
 
 ### Installing
 * clone this repository.
